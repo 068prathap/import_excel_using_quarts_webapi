@@ -1,0 +1,6 @@
+@ImportExcelUsingQuartz_HostAddress = http://localhost:5168
+
+GET {{ImportExcelUsingQuartz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
